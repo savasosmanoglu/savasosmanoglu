@@ -7,7 +7,7 @@
  
  ### 👨‍💻 &nbsp;About Me
 
-👨‍💼 I'm currently Game Developer 👨‍💻 at Talus Studio 🏦.
+👨‍💼 I'm currently Solo Game Developer.
 
 💻 I have a passion for Game Development.    
 
